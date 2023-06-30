@@ -1,5 +1,56 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "pp": [
+    {
+      "img": "https://images.pexels.com/photos/16376255/pexels-photo-16376255/free-photo-of-trees-and-taj-mahal-palace-behind.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Mumbai",
+      "distance": "17 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/4070763/pexels-photo-4070763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Bengaluru",
+      "distance": "18.5 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/16653812/pexels-photo-16653812/free-photo-of-lattice-structure-bridge-on-a-river.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Kolkata",
+      "distance": "2 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/14687500/pexels-photo-14687500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "NCR",
+      "distance": "9.5 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/14374972/pexels-photo-14374972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Pune",
+      "distance": "16.5 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/10070972/pexels-photo-10070972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Chennai",
+      "distance": "20 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/11321242/pexels-photo-11321242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Hyderabad",
+      "distance": "22 - hours drive"
+    },
+    {
+      "img": "https://images.pexels.com/photos/6813041/pexels-photo-6813041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Ahmedabad",
+      "distance": "19.5 - hours drive"
+    }
+  ],
+
+  "profile": [
+    {
+      "id": 1,
+      "name": "Santajit Patra",
+      "country": "India",
+      "logo": "https://santajitpatra.netlify.app/_ipx/w_640,q_75/%2F_next%2Fstatic%2Fmedia%2Fsantajit-patra-11.90b687d5.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fsantajit-patra-11.90b687d5.jpeg&w=640&q=75",
+      "slogan": "I am the man who started world war III",
+      "location": "Amta, Howrah 711401",
+      "website": "www.santajitpatra.netlify.app"
+    }
+  ]
 }
