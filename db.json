@@ -1,4 +1,127 @@
 {
+  "profile": [
+    {
+      "id": 1,
+      "name": "Santajit Patra",
+      "country": "India",
+      "logo": "https://santajitpatra.netlify.app/_ipx/w_640,q_75/%2F_next%2Fstatic%2Fmedia%2Fsantajit-patra-11.90b687d5.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fsantajit-patra-11.90b687d5.jpeg&w=640&q=75",
+      "slogan": "I am the man who started world war III",
+      "location": "Amta, Howrah 711401",
+      "website": "www.santajitpatra.netlify.app"
+    }
+  ],
+  "house": [
+    {
+      "img": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star": 4.73,
+      "price": "$30 / night",
+      "total": "$117 total",
+      "long": -0.0022275,
+      "lat": 51.5421655
+    },
+    {
+      "img": "https://images.pexels.com/photos/1080719/pexels-photo-1080719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Independant luxury studio apartment",
+      "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
+      "star": 4.3,
+      "price": "$40 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/2736139/pexels-photo-2736139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Bengaluru Studio Apartments",
+      "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
+      "star": 3.8,
+      "price": "$35 / night",
+      "total": "$207 total",
+      "long": -0.135638,
+      "lat": 51.521916
+    },
+    {
+      "img": "https://images.pexels.com/photos/3705529/pexels-photo-3705529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "30 mins to Oxford Street, Excel Bengaluru",
+      "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star": 4.1,
+      "price": "$55 / night",
+      "total": "$320 total",
+      "long": -0.069961,
+      "lat": 51.472618
+    },
+    {
+      "img": "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Spacious Peaceful Modern Bedroom",
+      "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
+      "star": 5,
+      "price": "$60 / night",
+      "total": "$450 total",
+      "long": -0.08472,
+      "lat": 51.510794
+    },
+    {
+      "img": "https://images.pexels.com/photos/4112601/pexels-photo-4112601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "The Blue Room In Bengaluru",
+      "description": "2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
+      "star": 4.23,
+      "price": "$65 / night",
+      "total": "$480 total",
+      "long": -0.094116,
+      "lat": 51.51401
+    },
+    {
+      "img": "https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "5 Star Luxury Apartment",
+      "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star": 3.85,
+      "price": "$90 / night",
+      "total": "$650 total",
+      "long": -0.109889,
+      "lat": 51.521245
+    },
+    {
+      "img": "https://images.pexels.com/photos/1571470/pexels-photo-1571470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+      "star": 4.73,
+      "price": "$30 / night",
+      "total": "$117 total",
+      "long": -0.0022275,
+      "lat": 51.5421655
+    },
+    {
+      "img": "https://images.pexels.com/photos/2440471/pexels-photo-2440471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Independant luxury studio apartment",
+      "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
+      "star": 4.3,
+      "price": "$40 / night",
+      "total": "$157 total",
+      "long": -0.095091,
+      "lat": 51.48695
+    },
+    {
+      "img": "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "Private room in center of Bengaluru",
+      "title": "Bengaluru Studio Apartments",
+      "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
+      "star": 3.8,
+      "price": "$35 / night",
+      "total": "$207 total",
+      "long": -0.135638,
+      "lat": 51.521916
+    }
+  ],
   "live-anywhere": [
     {
       "img": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -11,7 +134,8 @@
     {
       "img": "https://images.pexels.com/photos/2815150/pexels-photo-2815150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Unique stays"
-    }  ,{
+    },
+    {
       "img": "https://images.pexels.com/photos/5749807/pexels-photo-5749807.jpeg?auto=compress&cs=tinysrgb&w=600",
       "title": "Pet allowed"
     }
@@ -56,18 +180,6 @@
       "img": "https://images.pexels.com/photos/6813041/pexels-photo-6813041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "location": "Ahmedabad",
       "distance": "19.5 - hours drive"
-    }
-  ],
-
-  "profile": [
-    {
-      "id": 1,
-      "name": "Santajit Patra",
-      "country": "India",
-      "logo": "https://santajitpatra.netlify.app/_ipx/w_640,q_75/%2F_next%2Fstatic%2Fmedia%2Fsantajit-patra-11.90b687d5.jpeg?url=%2F_next%2Fstatic%2Fmedia%2Fsantajit-patra-11.90b687d5.jpeg&w=640&q=75",
-      "slogan": "I am the man who started world war III",
-      "location": "Amta, Howrah 711401",
-      "website": "www.santajitpatra.netlify.app"
     }
   ]
 }
